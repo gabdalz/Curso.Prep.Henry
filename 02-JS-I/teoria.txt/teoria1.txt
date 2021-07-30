@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables: es el valor que se le asigna a algo para usarlo luego.
+
+	* Strings: es un texto que va entre comillas siempre, puede ser un numero, pero si esta entre comillas, se lo toma de todas maneras como strings.
+
+	* Funciones: es un nombre al que llamamos para ejecutar algo (argumentos: es a lo que va a afectar la funciona la que llamamos, lo que queremos que resuelva nuestra funcion; `return`: es lo que queremos que nos devuelva la función, lo unico que queremos que salga de ella)
+
+	* Declaraciones `if`: es una palabra que se utiliza para darle una condicion a nuestra función, es decir le decimos a nuestra funcion que SI pasa esto, entonces es esto.
+	* Valores booleanos (`true`, `false`): son valores que provienen de un codigo binario, es decir pueden pasar dos cosas en cierta funcion, o es verdadero, o es falso. 
